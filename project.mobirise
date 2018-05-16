@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Birthday Bash",
-    "currentPage": "index.html",
+    "currentPage": "Scubaversity.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 33,
     "versionPublish": "4.7.2",
@@ -37,12 +37,12 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/3d-logo-transparent-128x60.png",
+    "favicon": "@PROJECT_PATH@/assets/images/3d-logo-transparent-128x60-1.png",
     "noImageResize": "",
     "google-analytics": ""
   },
   "pages": {
-    "index.html": {
+    "Scubaversity.html": {
       "settings": {
         "main": true,
         "title": "Scubaversity",
